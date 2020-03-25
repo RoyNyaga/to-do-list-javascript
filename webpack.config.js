@@ -6,7 +6,7 @@ module.exports = {
     filename: 'main.js',
     path: path.resolve(__dirname, 'dist')
   },
-  watch: true,
+  // watch: true,
   optimization: {
   	minimize: false
   }
